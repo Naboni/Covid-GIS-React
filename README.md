@@ -1,33 +1,43 @@
 ## 🦠 React & Mapbox COVID-19 Tracker 🦠
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/03aa4a5d-97de-4392-bfc6-b2dc048f5d56/deploy-status)](https://app.netlify.com/sites/react-covid19-tracker/deploys)
+This is a React Covid-19 Tracker app built using MapBox Library for GIS project.
+`Submitted to: Mr. Birhanu`
+`Name: Naboni Abebe`
+`ID: ETR/0714/11`
 
 ### [Live Demo](https://react-covid19-tracker.netlify.com/)
 
-I made this app inspired in this [project](https://github.com/alemesa/mapbox-covid19) and this [article](https://dev.to/alemesa/how-to-create-a-covid-19-map-with-mapbox-and-react-3jgf).
+### Screenshot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![sunnyside homepage](./src/assets/home.png?raw=true 'home page')
+
+![sunnyside homepage](./src/assets/cases.png?raw=true 'cases page')
+
+![sunnyside homepage](./src/assets/analytics.png?raw=true 'analytics page')
+
+### Steps to
 
 To execute this project, clone and after that run:
 
-### `yarn start`
-
-Running the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Step 1) `npm i`
+Step 2) Create a .env file in your project directory
+Step 3) Copy and Paste the constant you see below and save your .env file
+`REACT_APP_MAPBOX_GL_TOKEN="pk.eyJ1IjoiYm9ubnkxMjE5IiwiYSI6ImNreWJrYjdpZzBnMnkyeXFveGdpaXZkdHUifQ.9wbBXKa59oo00j1EgYTaYA"`
+Step 4) `npm start`
+Step 5) Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You will also see any lint errors in the console. <br />
+If the map is not loading in the first attempt. Try reloading again.
 
-NOTE: Remember to put a `.env` file with the Mapbox Access Token, like example bellow:
+### Built with
 
-```
-REACT_APP_MAPBOX_GL_TOKEN="my-mapbox-secret-token"
-```
-You can know more on this [link](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/)
+- Semantic HTML5 markup
+- CSS custom properties
+- [React](https://reactjs.org/) - JS library
+- MapBox Library
 
-## TECH
+## Author
 
-* [React](https://github.com/facebook/react)
-* [Mapbox](https://www.mapbox.com/)
-* [COVID-19 API](https://docs.corona.lmao-xd.wtf/)
-* [Recharts](https://recharts.org/en-US)
+- Website - [Naboni Abebe](https://portfolio-ten-dusky-48.vercel.app/)
+- Twitter - [@Naboni6](https://www.twitter.com/Naboni6)
