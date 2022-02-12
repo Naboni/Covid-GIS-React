@@ -11,9 +11,9 @@ This is a React Covid-19 Tracker app built using MapBox Library for GIS project.
 
 ![sunnyside homepage](./src/assets/home.png?raw=true 'home page')
 
-![sunnyside homepage](./src/assets/cases.png?raw=true 'cases page')
+![sunnyside homepage](./src/assets/cases.png 'cases page')
 
-![sunnyside homepage](./src/assets/analytics.png?raw=true 'analytics page')
+![sunnyside homepage](./src/assets/analytics.png 'analytics page')
 
 ### Steps to
 
