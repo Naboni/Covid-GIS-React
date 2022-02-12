@@ -5,8 +5,6 @@ This is a React Covid-19 Tracker app built using MapBox Library for GIS project.
 `Name: Naboni Abebe`
 `ID: ETR/0714/11`
 
-### [Live Demo](https://react-covid19-tracker.netlify.com/)
-
 ### Screenshot
 
 ![sunnyside homepage](./src/assets/home.png?raw=true 'home page')
